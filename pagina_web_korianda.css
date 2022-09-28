@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+   margin:0px;
+   padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #88AFA2;
+}
+table, th, td{
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.menu{
+    width: 400px;
+}
+.contacto{
+    width: 400px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 400px;
+    width: 100px;
+    border: 1px solid;
+    background-color: #88AFA2;
+}
